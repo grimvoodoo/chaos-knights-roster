@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "name": "War Dog Brigand",
+    "points": 160,
+    "options": [
+      {"name": "Diabolus Heavy Stubber",
+      "points": 0},
+      {
+        "name": "Havoc Multi-Launcher",
+        "points": 5
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "War Dog Executioner",
+    "points": 160,
+    "options": [
+
+    ]
+  },
+  {
+    "id": 3,
+    "name": "War Dog Huntsman",
+    "points": 150,
+    "options": [
+      
+    ]
+  },
+  {
+    "id": 4,
+    "name": "War Dog Karnivore",
+    "points": 145,
+    "options": [
+      
+    ]
+  },
+  {
+    "id": 5,
+    "name": "War Dog Stalker",
+    "points": 150,
+    "options": [
+      
+    ]
+  },
+  {
+    "id": 6,
+    "name": "War Dog Moirax",
+    "points": 165,
+    "options": [
+      
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Knight Abominant",
+    "points": 430,
+    "options": [
+      
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Knight Desecrator",
+    "points": 400,
+    "options": [
+      
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Knight Despoiler",
+    "points": 420,
+    "options": [
+      
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Knight Rampager",
+    "points": 400,
+    "options": [
+      
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Knight Tyrant",
+    "points": 610,
+    "options": [
+      
+    ]
+  }
+]
